@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "My Vitepress blog"
+  name: "blog"
   text: "A VitePress Site"
   tagline: My great project tagline
+  image:
+    src: /logo.png
+    alt: VitePress
   actions:
     - theme: brand
       text: Markdown Examples
