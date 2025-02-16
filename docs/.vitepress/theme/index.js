@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import './style.css'
 import DocsList from './components/DocsList.vue'
 
 export default {
