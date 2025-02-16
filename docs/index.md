@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "blog"
-  text: "A VitePress Site"
+  text: "Hello World!!"
   tagline: My great project tagline
   image:
     src: /logo.png
