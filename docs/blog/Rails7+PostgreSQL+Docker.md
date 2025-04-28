@@ -10,7 +10,7 @@ author: nax2
 ## Versions
 | Category  | Version              |
 | :-------- | :------------------- |
-| OS        | macOS Swquoia 15.4.1 |
+| OS        | macOS Sequoia 15.4.1 |
 | Framework | Rails 7.1.5          |
 | Language  | Ruby 3.2.8           |
 | Database  | PostgreSQL 14        |

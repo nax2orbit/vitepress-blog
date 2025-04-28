@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: WIP:vue3 learn
+    details: vue3　学習メモ
+    link: /blog/2025-02-16-vue3-learn
+  - title: Rails7 API mode setup
+    details: Rails7 API mode + PostgreSQL + Docker
+    link: /blog/Rails7+PostgreSQL+Docker
 ---
 
