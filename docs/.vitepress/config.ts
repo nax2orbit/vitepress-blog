@@ -16,6 +16,7 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
+    logo: 'logogif.gif',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },

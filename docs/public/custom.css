@@ -4,3 +4,8 @@
   transition: background-color 0.2s;
   font-weight: 600;
 }
+
+.VPNavBarTitle .VPImage {
+  height: 48px;
+  width: auto;
+}
