@@ -7,7 +7,8 @@ hero:
   text: "Hello World!!"
   tagline: My great project tagline
   image:
-    src: /logo.png
+    # src: /logo.png
+    src: /mumu.gif
     alt: VitePress
   actions:
     - theme: brand
