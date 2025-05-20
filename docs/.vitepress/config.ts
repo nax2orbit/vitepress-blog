@@ -21,6 +21,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'blog', link: '/blog/' },
+      { text: 'til', link: '/til/' },
     //  {
     //     text: 'Dropdown Menu',
     //     items: [
@@ -35,11 +36,11 @@ export default defineConfig({
       level: [2, 3], // ##と###を目次に出す
     },
 
-    sidebar: {
-      '/':[
-        {text: 'blog', link:'/blog/'}
-      ]
-    },
+    // sidebar: {
+    //   '/':[
+    //     {text: 'blog', link:'/blog/'}
+    //   ]
+    // },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/nax2orbit' }
