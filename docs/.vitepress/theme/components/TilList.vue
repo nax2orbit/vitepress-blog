@@ -1,6 +1,9 @@
 <script setup>
 import { ref, computed } from 'vue'
-import articles from '../../til/til-list.json' // ビルド時生成のJSON
+import rawArticles from '../../til/til-list.json' // ビルド時生成のJSON
+
+// "index" タイトルの記事を除外
+const articles = rawArticles.filter(article => article.title !== 'index')
 
 const pageSize = 10
 const page = ref(1)

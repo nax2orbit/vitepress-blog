@@ -1,7 +1,6 @@
 ---
 layout: page
+title: index
 ---
-
-# Today I Learned
 
 <TilList />
