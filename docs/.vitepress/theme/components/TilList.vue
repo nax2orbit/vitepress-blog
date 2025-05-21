@@ -20,11 +20,11 @@ function prev() {
 
 <template>
   <div>
-    <div v-for="article in paginated" :key="article.url" class="til-entry">
-      <h2>
-        <a :href="article.url">{{ article.title }}</a>
-      </h2>
-      <p>{{ article.summary }}</p>
+    <div v-for="article in paginated" :key="article.url" class="til-entry-wrapper">
+      <div class="til-entry">
+        <div class="til-date">{{ article.date }}</div>
+        <p>{{ article.summary }}</p>
+      </div>
     </div>
     <div class="pagination">
       <button @click="prev" :disabled="page===1">Prev</button>
@@ -33,3 +33,21 @@ function prev() {
     </div>
   </div>
 </template>
+
+<style scoped>
+.til-entry-wrapper {
+  margin-bottom: 1.5em;
+}
+.til-entry {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.til-date {
+  font-size: 0.95em;
+  color: #888;
+  margin-bottom: 0.5em;
+}
+</style>
