@@ -23,4 +23,4 @@ const articles = files.map(file => {
 articles.sort((a, b) => new Date(b.date) - new Date(a.date));
 
 // JSONとして出力
-fs.writeFileSync('docs/til/til-list.json', JSON.stringify(articles, null, 2));
+fs.writeFileSync('docs/.vitepress/til/til-list.json', JSON.stringify(articles, null, 2));
