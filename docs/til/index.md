@@ -1,6 +1,7 @@
 ---
-layout: page
-title: index
+title: TIL
 ---
+
+# TIL
 
 <TilList />
