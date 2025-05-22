@@ -2,7 +2,7 @@
 import { ref, computed } from 'vue'
 import rawArticles from '../../til/til-list.json' // ビルド時生成のJSON
 
-// "index" タイトルの記事を除外
+//Exclude articles with the title "TIL"
 const articles = rawArticles.filter(article => article.title !== 'TIL')
 
 const pageSize = 10
