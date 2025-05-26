@@ -47,6 +47,7 @@ function prev() {
   padding: 1em;
   background: #fff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  white-space: pre-line;
 }
 .til-date {
   font-size: 0.95em;
