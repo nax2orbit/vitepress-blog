@@ -14,7 +14,7 @@ const articles = files.map(file => {
   return {
     title: attributes.title || basename,
     date: attributes.date || basename,
-    summary: body.slice(0, 100), // 先頭100文字だけ
+    summary: body.trim(), // No character limit
     url: `/til/${basename}.html`
   }
 });

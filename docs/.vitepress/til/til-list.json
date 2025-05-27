@@ -8,7 +8,7 @@
   {
     "title": "2025-05-27",
     "date": "2025-05-27",
-    "summary": "I learned about the command to check Ruby classes using irb\n .ancestors ...Inheritance chain\n .insta",
+    "summary": "I learned about the command to check Ruby classes using irb\n .ancestors ...Inheritance chain\n .instance_methods ...Instance Methods that Can Be Used in That Class\n .name ...Class name",
     "url": "/til/2025-05-27.html"
   },
   {
