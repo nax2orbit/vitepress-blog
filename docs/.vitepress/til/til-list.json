@@ -6,6 +6,12 @@
     "url": "/til/index.html"
   },
   {
+    "title": "2025-05-27",
+    "date": "2025-05-27",
+    "summary": "I learned about the command to check Ruby classes using irb\n .ancestors ...Inheritance chain\n .insta",
+    "url": "/til/2025-05-27.html"
+  },
+  {
     "title": "2025-05-26",
     "date": "2025-05-26",
     "summary": "Learned the following in Ruby:\n {key, value} ... Hash literal\n *variable ... Expand array",
