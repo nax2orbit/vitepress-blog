@@ -6,6 +6,12 @@
     "url": "/til/index.html"
   },
   {
+    "title": "2025-05-29",
+    "date": "2025-05-29",
+    "summary": "'authorize xxx' in rails7 is pundit(policy)",
+    "url": "/til/2025-05-29.html"
+  },
+  {
     "title": "2025-05-28",
     "date": "2025-05-28",
     "summary": "SQL ID is recommended to_i (sql injection countermeasure)",
