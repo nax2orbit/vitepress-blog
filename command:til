@@ -1,0 +1,1 @@
+node scripts/generate-til-list.cjs
