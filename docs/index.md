@@ -19,7 +19,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: WIP:vue3 learn
+  - title: svelte learn
+    details: svelte 学習メモ
+    link: /blog/2025-07-06-svelte-learn.md
+  - title: vue3 learn
     details: vue3　学習メモ
     link: /blog/2025-02-16-vue3-learn
   - title: Rails7 API mode setup
