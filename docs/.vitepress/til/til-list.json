@@ -6,6 +6,12 @@
     "url": "/til/index.html"
   },
   {
+    "title": "2025-07-06",
+    "date": "2025-07-06",
+    "summary": "🙌svelte learn start!",
+    "url": "/til/2025-07-06.html"
+  },
+  {
     "title": "2025-05-29",
     "date": "2025-05-29",
     "summary": "'authorize xxx' in rails7 is pundit(policy)",
