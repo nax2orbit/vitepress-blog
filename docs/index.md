@@ -19,6 +19,9 @@ hero:
       link: /api-examples
 
 features:
+  - title: Loop sending in Rails transaction
+    details: Railsのtransaction内でメール送信を行ったらループ送信が発生した話
+    link: /blog/2025-08-10-rails-transaction-mail-loop.md
   - title: svelte learn
     details: svelte 学習メモ
     link: /blog/2025-07-06-svelte-learn.md
