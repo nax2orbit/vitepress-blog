@@ -1,0 +1,60 @@
+---
+title: WIP:Svelte+SvelteKit+SkeltenUI
+date: 2025-08-24
+author: nax2
+---
+
+## 1. プロジェクト作成(SvelteKit)
+
+ npx sv create guitool-front
+┌  Welcome to the Svelte CLI! (v0.9.2)
+│
+◇  Directory not empty. Continue?
+│  Yes
+│
+◇  Which template would you like?
+│  SvelteKit minimal
+│
+◇  Add type checking with TypeScript?
+│  Yes, using TypeScript syntax
+│
+◆  Project created
+│
+◇  What would you like to add to your project? (use arrow keys / space bar)
+│  prettier, eslint, tailwindcss, sveltekit-adapter
+│
+◇  tailwindcss: Which plugins would you like to add?
+│  forms
+│
+◇  sveltekit-adapter: Which SvelteKit adapter would you like to use?
+│  vercel
+│
+◆  Successfully setup add-ons
+│
+◇  Which package manager do you want to install dependencies with?
+│  npm
+│
+◆  Successfully installed dependencies
+│
+◇  Successfully formatted modified files
+│
+◇  What's next? ───────────────────────────────╮
+│                                              │
+│  📁 Project steps                            │
+│                                              │
+│    1: cd guitool-front                       │
+│    2: npm run dev -- --open                  │
+│                                              │
+│  To close the dev server, hit Ctrl-C         │
+│                                              │
+│  Stuck? Visit us at https://svelte.dev/chat  │
+│                                              │
+├──────────────────────────────────────────────╯
+│
+└  You're all set!
+
+
+demo
+$ npm run dev -- --open
+
+(WIP)
